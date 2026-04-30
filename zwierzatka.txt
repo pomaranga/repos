@@ -5,7 +5,7 @@ przyjaciel
 pies
 golab
 kot_uszasty_smieszny
-kot_zwykly
+kot-zwykly
 kura
 pies
 papuga

@@ -14,3 +14,4 @@ Nietoperz
 ryba
 Foka szara
 Jaskółka
+elf

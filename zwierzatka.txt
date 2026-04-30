@@ -10,3 +10,4 @@ kura
 papuga
 zajac
 Nietoperz
+Foka szara

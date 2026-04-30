@@ -8,3 +8,4 @@ kot_zwykly
 pies
 kura
 papuga
+zajac

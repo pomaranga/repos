@@ -7,3 +7,4 @@ kot_uszasty_smieszny
 kot_zwykly
 pies
 kura
+papuga

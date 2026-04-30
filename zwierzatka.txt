@@ -10,3 +10,5 @@ kura
 pies
 papuga
 zajac
+Nietoperz
+Foka szara

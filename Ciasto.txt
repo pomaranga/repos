@@ -1,0 +1,42 @@
+=========================================
+     CIASTO MARCHEWKOWE v0.1
+=========================================
+
+[ OPIS ]
+Wilgotne, korzenne ciasto o doskonałej strukturze.
+Proste w kompilacji, niezawodne w smaku.
+
+[ SKŁADNIKI ]
+-- Suche (Zasoby) --
+* 2 szklanki mąki pszennej
+* 1.5 szklanki cukru (najlepiej brązowego)
+* 1 łyżeczka proszku do pieczenia
+* 1 łyżeczka sody oczyszczonej
+* 2 łyżeczki cynamonu
+* 0.5 łyżeczki soli
+
+-- Mokre (Logika Rdzenia) --
+* 4 jajka (rozmiar L)
+* 1 szklanka oleju roślinnego
+* 2 szklanki startej marchewki (drobne oczka)
+* opcjonalnie: 0.5 szklanki posiekanych orzechów
+
+[ PROCES PRZYGOTOWANIA ]
+1. Rozgrzej piekarnik do 180°C (bez termoobiegu).
+2. W misce A wymieszaj wszystkie składniki suche.
+3. W misce B ubij jajka z cukrem, powoli dolewając olej.
+4. Połącz zawartość miski A z miską B (mieszaj krótko).
+5. Dodaj tartą marchew i orzechy. Wymieszaj łopatką.
+6. Piecz przez 45-55 minut (do tzw. "suchego patyczka").
+
+[ INTERFEJS / POLEWA ]
+* 200g serka kremowego (np. typu Philadelphia)
+* 50g miękkiego masła
+* Cukier puder (do smaku)
+* Odrobina ekstraktu z wanilii
+
+[ LOGI ]
+Status: Stabilny
+Profil smaku: Głęboki / Korzenny
+=========================================
+# AI GEN

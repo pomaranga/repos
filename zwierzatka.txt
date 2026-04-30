@@ -5,4 +5,6 @@ przyjaciel
 golab
 kot_uszasty_smieszny
 kot_zwykly
+pies
 ryba
+
